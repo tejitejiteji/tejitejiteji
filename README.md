@@ -1,6 +1,12 @@
 ## Hi there 👋
 
+hi its teji
+
 <!--
+^^ javascript comment
+
+adding more hashtags makes the writing smaller
+
 **tejitejiteji/tejitejiteji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
