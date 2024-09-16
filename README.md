@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-hi its teji
+hi im teji
 
 <!--
 ^^ javascript comment
