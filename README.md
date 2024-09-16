@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-hi im teji
+Hi I'm teji and i'm a software development engineer apprentice!
+I'm looking forward to learning lots of Java
 
 <!--
 ^^ javascript comment
